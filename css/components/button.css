@@ -1,0 +1,20 @@
+.btn-blue {
+ 	background-color: #B2BD7E;
+ 	padding: 10px 15px;
+ 	border-radius: 4px;
+ 	color: white;
+ 	font-weight: bolder;
+ 	margin-bottom: 8px;
+ 	font-size: 13px;
+ }
+
+.btn-banner {
+	background-color: #B2BD7E;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bolder;
+	margin-bottom: 8px;
+	font-size: 15px;
+}
+
